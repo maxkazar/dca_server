@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "dca_server"
   gem.homepage = "http://github.com/maxkazar/dca_server"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{DCA Server}
+  gem.description = %Q{DCA Server}
   gem.email = "maxkazargm@gmail.com"
   gem.authors = ["Max Kazarin"]
   # dependencies defined in Gemfile
